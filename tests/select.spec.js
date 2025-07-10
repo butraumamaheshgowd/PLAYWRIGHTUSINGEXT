@@ -25,7 +25,7 @@ test("MyDropDown",async function({page}){
 })
 
 
-test.only("my testing test", async function({page}){
+test("my testing test", async function({page}){
 
     //await page.goto('https://freelance-learn-automation.vercel.app/signup');
     //await page.getByLabel('Email').fill("umamahesh.gowd@gmail.com");
